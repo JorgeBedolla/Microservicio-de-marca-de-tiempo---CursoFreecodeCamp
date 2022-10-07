@@ -4,7 +4,10 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #FaFaFa;
+	background: #d3cce3;
+	background: -webkit-linear-gradient(to right, #d3cce3, #e9e4f0); 
+	background: linear-gradient(to right, #d3cce3, #e9e4f0);
+
 	text-align: center;
 	line-height: 1.4em;
 }
